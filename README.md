@@ -1,4 +1,4 @@
-IITM x DTL Project member app
+## IITM x DTL Project member app
 
 This project focuses on predicting **daily returns of Tata Motors stock** using financial time series data and alternative signals. It is part of my exploration in **Quantitative Finance** and combines classical financial indicators with machine learning to uncover predictive insights from historical stock prices.
 
